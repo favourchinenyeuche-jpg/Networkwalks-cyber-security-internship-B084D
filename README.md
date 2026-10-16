@@ -1,1 +1,3 @@
-# Networkwalks-cyber-security-internship-B084DInternship tasks will go here.
+# Networkwalks Cyber Security Internship
+
+Internship tasks will go here.
